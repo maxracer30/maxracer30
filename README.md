@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Всем привет!))
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pVmh7HR0cA2xOlet1z/giphy.gif?cid=ecf05e47tftgkadfnokoad2ho9jxd6o8d0w8hg47biqncpfw&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media.giphy.com/media/pVmh7HR0cA2xOlet1z/giphy.gif?cid=ecf05e47tftgkadfnokoad2ho9jxd6o8d0w8hg47biqncpfw&rid=giphy.gif&ct=g" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -20,22 +20,27 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-maxracer30&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=maxracer30&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div id="header" align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=maxracer30&theme=dark&background=000000" alt=""/>
+</div>
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Koltin" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+</div>
 
-<!--
-**maxracer30/maxracer30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Little about me:
+Немного обо мне:
+- 👨🏼‍💻 More than six months in programming)
+- Более полугода в программировании))
+- 🔭 Actively looking for a job)
+- Активно ищу работу))
+- 🌱 Now I learning the subtleties of Android development)
+- Изучаю тонкости Android разработки))
+- 📫 How to reach me in Telegram 😉
+- Меня всегда можно найти в Телеграме))
