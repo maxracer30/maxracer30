@@ -44,5 +44,5 @@
 - Активно ищу работу))
 - 🌱 Now I learning the subtleties of Android development)
 - Изучаю тонкости Android разработки))
-- 📫 How to reach me in Telegram 😉
+- 📫 You can always contact me in Telegram 😉
 - Меня всегда можно найти в Телеграме))
