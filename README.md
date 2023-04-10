@@ -24,7 +24,7 @@
 </div>
 
 <div id="header" align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=maxracer30&theme=dark&background=000000" alt=""/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=maxracer30&theme=swift&hide_border=true&border_radius=30&locale=ru&background=45%2C8248FF86%2C71FFE972" alt=""/>
 </div>
 
 <div align="center">
