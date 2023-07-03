@@ -38,6 +38,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="80" height="80"/>&nbsp;
 </div>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP"  alt="PHP" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" title="PHPStorm"  alt="PHPStorm" width="80" height="80"/>&nbsp;
+</div>
 
 #### Little about me:
 Немного обо мне:
